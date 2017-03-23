@@ -1,0 +1,6 @@
+Tiempos CPU: 5.312
+ Tiempo simulacion(tiempo real) 2.65 minutos
+Tiempo maximo: 2.65 minutos
+Tiempo minimo: 0 minutos
+Iteracion maxima: 159
+Iteracion minima:  0
